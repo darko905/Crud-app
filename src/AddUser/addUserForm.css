@@ -1,0 +1,27 @@
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #ddd;
+}
+input{
+    padding: 10px 20px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    
+}
+label{
+    margin-bottom: 0.5rem;
+}
+.add-button{
+    background-color: #044cd0;
+}
+
+.calcel-button{
+    background-color: transparent;
+    border: 1px solid #fff !important;
+}
